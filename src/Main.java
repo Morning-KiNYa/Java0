@@ -14,7 +14,7 @@ public class Main {
 		System.out.println("こたえは"+64);
 		int x;
 		x = 6;
-		System.out.println(x*x*3.14);
+		System.out.println(x*x*3.14+"だよ");
 		
 		System.out.println("workブランチです");
 	}
