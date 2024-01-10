@@ -18,6 +18,8 @@ public class Main {
 		System.out.println(x*x*3.14+"ですですですです");
 		
 		System.out.println("workブランチです");
+		
+		System.out.println("1月10日です");
 	}
 
 }
