@@ -20,6 +20,8 @@ public class Main {
 		System.out.println("workブランチです");
 		
 		System.out.println("1月10日です");
+		
+		System.out.println("1月11日です");
 	}
 
 }
